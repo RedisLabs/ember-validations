@@ -1,3 +1,5 @@
+/*eslint no-useless-escape: "off"*/
+
 import Ember from 'ember';
 import jquery from 'jquery';
 import Base from 'ember-validations/validators/base';
